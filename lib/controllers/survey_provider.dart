@@ -53,7 +53,6 @@ class SurveyProvider extends ChangeNotifier {
         break;
       }else{
         checkNull=false;
-        break;
       }
     }
   }
