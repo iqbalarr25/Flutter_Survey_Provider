@@ -1,16 +1,6 @@
-# flutter_starter
+# Flutter app Survey with Provider
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div>
+<image src="https://user-images.githubusercontent.com/71244612/153456462-a4e8a42b-12ed-46bd-b269-4ec9595c58aa.png" width=45%>
+<image src="https://user-images.githubusercontent.com/71244612/153456453-9eee7e87-5269-4448-92d0-d919bcdeb0bb.png" width=45%>
+</div>
